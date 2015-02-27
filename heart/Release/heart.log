@@ -1,0 +1,12 @@
+﻿  heart.cpp
+heart.cpp(222): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(317) : 参见“wcsncpy”的声明
+heart.cpp(223): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(317) : 参见“wcsncpy”的声明
+heart.cpp(224): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(317) : 参见“wcsncpy”的声明
+heart.cpp(315): warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\include\string.h(279) : 参见“wcscat”的声明
+  正在生成代码
+  已完成代码的生成
+  heart.vcxproj -> E:\SourceCode\heart\Release\heart.exe
